@@ -100,8 +100,8 @@ main {
   -o-border-radius: 0;
 }
 /* feature */
-.fature{
-    padding: 0.1rem;
+.fature {
+  padding: 0.1rem;
 }
 .grid {
   display: grid;
@@ -255,12 +255,27 @@ main {
 .contant a:hover {
   letter-spacing: 0.1rem;
 }
+.footer-pragraph {
+  padding: 1rem;
+}
+.text-center {
+  text-align: center;
+}
 .footer {
   background: #1a263a;
   padding: 1rem 0;
 }
 .footer-link li {
   display: inline-block;
+}
+.footer-pragraph {
+  color: rgb(216, 216, 216);
+}
+.footer-pragraph a {
+  margin-left: 1rem;
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
 }
 .footer li a {
   color: white;
